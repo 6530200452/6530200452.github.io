@@ -1,7 +1,9 @@
-<p style="font-size:30px">
--Transmission Control Protocol (TCP)
-</p>
-- CISPP Glossary - Student Guide [Reference](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
+<p style="font-size:25px bold">
+Transmission Control Protocol (TCP)
+</p> 
+<h2>
+- CISPP Glossary - Student Guide
+</h2>[Reference](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
    - Provides connection-oriented data management and reliable data transfer.
      
    - ChatGPT : ให้การจัดการข้อมูลแบบเชื่อมต่อและการถ่ายโอนข้อมูลที่เชื่อถือได้
