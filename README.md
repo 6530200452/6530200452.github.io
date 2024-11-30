@@ -3,6 +3,6 @@
   - A
 
 
-![MyChicken](Profile.jpg)
+![Profile](Profile.jpg)
 
 [AUTHENTICATION](authentication)
