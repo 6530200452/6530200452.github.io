@@ -1,4 +1,6 @@
-Transmission Control Protocol (TCP)
+<p style="font-size:30px">
+-Transmission Control Protocol (TCP)
+</p>
 - CISPP Glossary - Student Guide [Reference](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
    - Provides connection-oriented data management and reliable data transfer.
      
