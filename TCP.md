@@ -2,17 +2,17 @@ Transmission Control Protocol (TCP)
 - CISPP Glossary - Student Guide [Reference](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
    - Provides connection-oriented data management and reliable data transfer.
      
-   - ChatGPT : TCP (Transmission Control Protocol) คือ โปรโตคอลสื่อสารในเครือข่ายอินเทอร์เน็ตที่ทำหน้าที่ในการส่งข้อมูลจากต้นทางไปยังปลายทางอย่างปลอดภัยและถูกต้อง โดย TCP เป็นโปรโตคอลที่อยู่ในชั้น Transport Layer (ชั้นขนส่ง) ของโมเดล TCP/IP
+   - ChatGPT : ให้การจัดการข้อมูลแบบเชื่อมต่อและการถ่ายโอนข้อมูลที่เชื่อถือได้
      
-   - Gemini : TCP ย่อมาจาก Transmission Control Protocol เป็นเหมือน พนักงานส่งของที่รับผิดชอบในการส่งพัสดุให้ถึงมือผู้รับอย่างปลอดภัยและถูกต้อง ในโลกของอินเทอร์เน็ต พัสดุที่ว่านี้ก็คือข้อมูลต่างๆ ที่เราใช้ เช่น เว็บเพจ อีเมล หรือวิดีโอ
+   - Gemini : การจัดการข้อมูลแบบเชื่อมต่อและการถ่ายโอนข้อมูลที่เชื่อถือได้
    
 - 2nd Source NIST Glossary [Reference](https://csrc.nist.gov/glossary
 )
    - TCP is one of the main protocols in TCP/IP networks. Whereas the IP protocol deals only with packets, TCP enables two hosts to establish a connection and exchange streams of data.
      
-   - ChatGPT : TCP (Transmission Control Protocol) คือ โปรโตคอลสื่อสารในเครือข่ายอินเทอร์เน็ตที่ทำหน้าที่ในการส่งข้อมูลจากต้นทางไปยังปลายทางอย่างปลอดภัยและถูกต้อง โดย TCP เป็นโปรโตคอลที่อยู่ในชั้น Transport Layer (ชั้นขนส่ง) ของโมเดล TCP/IP
+   - ChatGPT : TCP เป็นหนึ่งในโปรโตคอลหลักในเครือข่าย TCP/IP โดยที่โปรโตคอล IP จะจัดการเฉพาะกับแพ็กเก็ตข้อมูลเท่านั้น แต่ TCP ช่วยให้โฮสต์สองเครื่องสามารถสร้างการเชื่อมต่อและแลกเปลี่ยนข้อมูลในรูปแบบสตรีมได้
      
-   - Gemini : TCP ย่อมาจาก Transmission Control Protocol เป็นเหมือน พนักงานส่งของที่รับผิดชอบในการส่งพัสดุให้ถึงมือผู้รับอย่างปลอดภัยและถูกต้อง ในโลกของอินเทอร์เน็ต พัสดุที่ว่านี้ก็คือข้อมูลต่างๆ ที่เราใช้ เช่น เว็บเพจ อีเมล หรือวิดีโอ
+   - Gemini : TCP เป็นหนึ่งในโปรโตคอลหลักในเครือข่าย TCP/IP ในขณะที่โปรโตคอล IP จัดการเฉพาะแพ็กเก็ต TCP ช่วยให้โฮสต์สองเครื่องสามารถสร้างการเชื่อมต่อและแลกเปลี่ยนสตรีมข้อมูลได้
    
 - Myself : TCP (Transmission Control Protocol) คือโปรโตคอลในชั้น Transport Layer ของโมเดล TCP/IP ที่ทำหน้าที่ส่งข้อมูลบนอินเทอร์เน็ตให้ถึงปลายทางอย่างปลอดภัย ถูกต้อง และเชื่อถือได้ เปรียบเสมือนพนักงานส่งของที่รับประกันว่าข้อมูลจะถึงผู้รับครบถ้วน
   
