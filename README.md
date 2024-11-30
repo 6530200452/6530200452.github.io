@@ -2,4 +2,4 @@
 -Wichitchai
   -A
 
-![MyChicken](img/chicken)
+![MyChicken](chicken)
