@@ -2,15 +2,14 @@
 Transmission Control Protocol (TCP)
 </p> 
 <h5>
-- CISPP Glossary - Student Guide
-</h5>[Reference](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
+- CISPP Glossary - Student Guide</h5>[Reference](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
     - Provides connection-oriented data management and reliable data transfer.
      
     - ChatGPT : ให้การจัดการข้อมูลแบบเชื่อมต่อและการถ่ายโอนข้อมูลที่เชื่อถือได้
      
     - Gemini : การจัดการข้อมูลแบบเชื่อมต่อและการถ่ายโอนข้อมูลที่เชื่อถือได้
 <h5>
-- 2nd Source NIST Glossary </h5>[Reference](https://csrc.nist.gov/glossary
+- 2nd Source NIST Glossary</h5>[Reference](https://csrc.nist.gov/glossary
 )
    - TCP is one of the main protocols in TCP/IP networks. Whereas the IP protocol deals only with packets, TCP enables two hosts to establish a connection and exchange streams of data.
      
