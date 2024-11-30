@@ -1,5 +1,5 @@
 Transmission Control Protocol (TCP)
-- CISPP Glossary - Student Guide [Reference] (https://www.isc2.org/certifications/cissp/cissp-student-glossary)
+- CISPP Glossary - Student Guide [Reference](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
    - Provides connection-oriented data management and reliable data transfer.
      
    - ChatGPT : TCP (Transmission Control Protocol) คือ โปรโตคอลสื่อสารในเครือข่ายอินเทอร์เน็ตที่ทำหน้าที่ในการส่งข้อมูลจากต้นทางไปยังปลายทางอย่างปลอดภัยและถูกต้อง โดย TCP เป็นโปรโตคอลที่อยู่ในชั้น Transport Layer (ชั้นขนส่ง) ของโมเดล TCP/IP
@@ -17,4 +17,5 @@ Transmission Control Protocol (TCP)
 - Myself : TCP (Transmission Control Protocol) คือโปรโตคอลในชั้น Transport Layer ของโมเดล TCP/IP ที่ทำหน้าที่ส่งข้อมูลบนอินเทอร์เน็ตให้ถึงปลายทางอย่างปลอดภัย ถูกต้อง และเชื่อถือได้ เปรียบเสมือนพนักงานส่งของที่รับประกันว่าข้อมูลจะถึงผู้รับครบถ้วน
 - Sample in Daily life : เมื่อคุณส่งข้อความผ่านแอป เช่น Line, WhatsApp หรือ Facebook Messenger ข้อความของคุณจะถูกแบ่งเป็นส่วนย่อย (Packets) และส่งไปยังผู้รับผ่านอินเทอร์เน็ต โดย TCP จะรับประกันว่าข้อความแต่ละส่วนจะถูกส่งและเรียงลำดับอย่างถูกต้อง หากบางส่วนสูญหาย TCP จะส่งใหม่จนกว่าข้อความจะถึงผู้รับครบถ้วน
 
-URL งาน : https://6530200762.github.io/authentication
+URL งาน : https://6530200762.github.io/TCP
+
