@@ -1,5 +1,6 @@
 # 6530200452.github.io
--Wichitchai
- -A
+- Wichitchai
+ - A
+
 
 ![MyChicken](chicken.jpg)
