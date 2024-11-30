@@ -7,7 +7,7 @@
 
 ![Profile](Profile.jpg)
 
-[AUTHENTICATION](TCP)
+[Transmission Control Protocol (TCP)](TCP)
 
 
 
