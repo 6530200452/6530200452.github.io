@@ -18,5 +18,5 @@ Transmission Control Protocol (TCP)
   
 - Sample in Daily life : เมื่อคุณส่งข้อความผ่านแอป เช่น Line, WhatsApp หรือ Facebook Messenger ข้อความของคุณจะถูกแบ่งเป็นส่วนย่อย (Packets) และส่งไปยังผู้รับผ่านอินเทอร์เน็ต โดย TCP จะรับประกันว่าข้อความแต่ละส่วนจะถูกส่งและเรียงลำดับอย่างถูกต้อง หากบางส่วนสูญหาย TCP จะส่งใหม่จนกว่าข้อความจะถึงผู้รับครบถ้วน
 
-URL งาน : ["<<Click>>"](https://6530200762.github.io/TCP)
+URL งาน : [Click Link](https://6530200762.github.io/TCP)
 
