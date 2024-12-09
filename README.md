@@ -5,7 +5,7 @@
   - Computer Science major
 
 
-![Profile](Profile.jpg)
+![Profile](img/Profile.jpg)
 
 [Transmission Control Protocol (TCP)](TCP)
 
