@@ -1,1 +1,1 @@
-![e-card](img/chistmas.png)
+![e-card](img/chistmas_img.png)
