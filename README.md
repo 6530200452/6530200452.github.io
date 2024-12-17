@@ -9,7 +9,7 @@
 
 [Transmission Control Protocol (TCP)](TCP)
 
-[e-card(Chirstmas Day)](chiristmas)
+[e-card(Chirstmas Day)](christmas)
 
 
 
