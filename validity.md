@@ -1,4 +1,4 @@
-<center><h1>VALIDITY</h1></center>  
+<center><h1>**VALIDITY**</h1></center>  
 
 **Defination by [iceDQ](https://icedq.com/6-data-quality-dimensions#validity)**
 
