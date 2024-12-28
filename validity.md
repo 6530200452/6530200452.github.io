@@ -3,6 +3,7 @@
 **Defination by [validity](https://www.validity.com/data-quality/)**
 
 - Validity: When discussing data quality, validity is how data is measured for accuracy and reliability within a dataset. It ensures all data entries are error-free and consistent.
+  
 **Chat GPT**
 
 - เมื่อพูดถึงคุณภาพข้อมูล ความถูกต้อง (validity) คือการวัดความถูกต้องและความน่าเชื่อถือของข้อมูลภายในชุดข้อมูล ซึ่งจะช่วยให้มั่นใจว่าข้อมูลทุกรายการไม่มีข้อผิดพลาดและมีความสอดคล้องกั
