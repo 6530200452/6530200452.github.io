@@ -1,22 +1,22 @@
-Validity
+<center><h1>VALIDITY</h1></center>  
 
-Defination by [iceDQ](https://icedq.com/6-data-quality-dimensions#validity)
+**Defination by [iceDQ](https://icedq.com/6-data-quality-dimensions#validity)**
 
 - Validity: Data validity describes the closeness of data value to predetermined values or a calculation.
 
-Chat GPT
+**Chat GPT**
 
 - ความถูกต้องของข้อมูล(Validity): ความใกล้เคียงของค่าข้อมูลกับค่าที่กำหนดล่วงหน้าหรือการคำนวณ
 
-Gimini
+**Gimini**
 
 - ความถูกต้องของข้อมูล อธิบายถึงความใกล้เคียงของค่าข้อมูลกับค่าที่กำหนดไว้ล่วงหน้าหรือการคำนวณ
 
-My summary
+**My summary**
 
 - Validity หมายถึง ความถูกต้อง หรือ ความเที่ยงตรง ของข้อมูล นั่นคือ ข้อมูลนั้นต้องสอดคล้องกับความเป็นจริง หรือค่าที่กำหนดไว้ล่วงหน้า และสามารถนำไปใช้ในการวิเคราะห์ หรือตัดสินใจได้อย่างถูกต้อง
 
-Sample
+**Sample**
 
 - Data Validity based Sequence of events(Invalid Sequence)
   
