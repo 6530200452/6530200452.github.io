@@ -1,6 +1,6 @@
 <center><h1>**VALIDITY**</h1></center>  
 
-**Defination📃 : [Website : Validity.com](https://www.validity.com/data-quality/)**
+**Definition📃 : [Website : Validity.com](https://www.validity.com/data-quality/)**
 
 - Validity: When discussing data quality, validity is how data is measured for accuracy and reliability within a dataset. It ensures all data entries are error-free and consistent.
   
