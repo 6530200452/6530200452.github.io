@@ -2,7 +2,7 @@
 **Faculty of Science**
 **Computer Science major**
 
-![Profile](img/Profile.jpg)
+![Profile](img/Profile1.jpg)
 
 **---- PROJECT LINK ----**
 
