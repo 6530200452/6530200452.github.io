@@ -11,7 +11,7 @@
 
 บรรยากาศการทำกิจกรรม (เมื่อวันที่ 6 มกราคม 2568 เวลาประมาณ 16.00 น. ณ บริเวณ อาคาร 17 ศูนย์เรียนรวม 3 มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา)
 
-![image](https://github.com/user-attachments/assets/8fcd2b8b-04f7-437c-af34-8d2d3ded401b)
+![image](img/imgbg.jpg)
 
 ### My Team
 - [Kitchakan Sripaeng](https://T2lxddd.github.io/boardgame)
