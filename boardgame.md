@@ -19,4 +19,3 @@
 - [Siravet Nijnirundkul](https://9Siravet.github.io/boardgame)
 - [Thatthep Sataranaporn](https://bastackle.github.io/boardgame)
 - [Tinnapop Ratchada](https://Tinnapop-1728.github.io/boardgame)
-- [Wichitchai Sapsanoi](https://6530200452.github.io/boardgame)
