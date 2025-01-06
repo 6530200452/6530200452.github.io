@@ -13,6 +13,8 @@
 
 [Data Quality(Validity)](validity.md)
 
+[Board Game Kasetsart SiRaCha](boardgame.md)
+
 
 
 
