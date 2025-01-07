@@ -1,8 +1,8 @@
 # Wichitchai Sapsanoi
 
-**Faculty of Science**
+  **Faculty of Science**
 
-**Computer Science major**
+  **Computer Science major**
 
 ![Profile](img/Profile1.jpg)
 
