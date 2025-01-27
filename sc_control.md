@@ -8,7 +8,7 @@ Control Funtion : Perventative
 
 Type of SecurityControl : Physical Control
 
-![Hibox](img/hibox1)
+![Hibox](img/hibox1.jpg)
 
 **ขั้นตอนการทำงานของตู้ HIBOX**
 
