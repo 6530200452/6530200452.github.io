@@ -15,7 +15,7 @@
 
 [Board Game Kasetsart SiRaCha](boardgame.md)
 
-[Security Control](sc_control.md)
+[Security Control](security-control.md)
 
 
 
