@@ -12,4 +12,4 @@
  #### 🧠 My Self
  => ทำการตรวจสอบว่ามีคำขอที่เหนือความคาคิดหรือสูญหายถูกทำการปฏิเสธอย่างเหมาะสมตามหัวข้อ 💯
 
-URL : [Security Requirements to TinnapopR](https://tinnapop-1728.github.io/ security-requirements)
+URL : [Security Requirements to TinnapopR](https://tinnapop-1728.github.io/security-requirements)
