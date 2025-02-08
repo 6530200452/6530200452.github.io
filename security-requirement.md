@@ -3,9 +3,7 @@
 ## 📌 13.1.5 Generic Web Service Security
 
 ✅ **ข้อกำหนด:**  
-ตรวจสอบให้แน่ใจว่าคำขอที่มีประเภทเนื้อหาที่ไม่คาดคิดหรือขาดหายไป ถูกปฏิเสธด้วยส่วนหัวที่เหมาะสม  
-(HTTP Response Status: `406 Unacceptable` หรือ `415 Unsupported Media Type`)
-
+Verify that requests containing unexpected or missing content types are rejected with appropriate headers (HTTP response status 406 Unacceptable or 415 Unsupported Media Type).
 ---
 
 ## 💡 คำแปลจาก AI Model & My Self
